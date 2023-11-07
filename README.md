@@ -32,6 +32,11 @@ Meu nome é Caio Paz Castilho, tenho 16 anos, e atualmente estou cursando o Tecn
 </div>
 <br>
 
+----
+
+![CaioPazc github stats](https://github-readme-stats.vercel.app/api?username=CaioPazc&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioPazc&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Contatos:
 
 <div>
