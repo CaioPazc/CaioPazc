@@ -40,7 +40,7 @@ Meu nome é Caio Paz Castilho, tenho 17 anos, e atualmente estou cursando o Tecn
 #### Contatos:
 
 <div>
-<a href="https://www.linkedin.com/in/caio-paz-castilho-32ba00288/">
+<a href="https://www.linkedin.com/in/caio-paz-castilho-b39024310/">
   <img height="30em" src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
