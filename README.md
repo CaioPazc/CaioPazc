@@ -44,7 +44,7 @@ Meu nome é Caio Paz Castilho, tenho 17 anos, e atualmente estou cursando o Tecn
   <img height="30em" src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:caio22112006@outlook.com">
+<a href="mailto:caiopazcast@outlook.com">
   <img height="30em" src="https://img.shields.io/badge/EMAIL-BB001B?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
