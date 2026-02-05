@@ -1,4 +1,4 @@
-Meu nome é Caio Paz Castilho, tenho 17 anos, e atualmente estou cursando o Tecníco de Desenvolvimento de Sistema na Escola SENAI "Luiz Pagliato" 
+Meu nome é Caio Paz Castilho, tenho 19 anos, e atualmente estou cursando o Tecnólogo em Tecnologia em Mecatrônica Industrial e fiz Tecníco de Desenvolvimento de Sistema na Escola SENAI "Luiz Pagliato" e "Gaspar Ricardo Júnior"
 
 ----
 
