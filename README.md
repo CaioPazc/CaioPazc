@@ -49,8 +49,5 @@ Sou uma pessoa que teve o privilégio de conhecer a tecnologia desde cedo. Lembr
   <img height="30em" src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 </a>
 
-<a href="https://www.instagram.com/caiopzc/" target="_blank">
-  <img height="30em" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
 </div>
 <br>
