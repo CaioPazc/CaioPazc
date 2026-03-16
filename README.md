@@ -17,13 +17,16 @@ Sou uma pessoa que teve o privilégio de conhecer a tecnologia desde cedo. Lembr
   <img height="30em" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   <img height="30em" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
   <img height="30em" src="https://img.shields.io/badge/tailwindcss-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img height="30em" src="https://img.shields.io/badge/BOOTSTRAP-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img height="30em" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </div>
 <br>
 
 #### 🚀 Ferramentas que pretendo aprender:
 <div>  
-  <img height="30em" src="https://img.shields.io/badge/BOOTSTRAP-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img height="30em" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  
+  
+  
   <img height="30em" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
   <img height="30em" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
   <img height="30em" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
